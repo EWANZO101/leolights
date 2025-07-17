@@ -15,7 +15,7 @@ Control all your in-game **FiveM car buttons** directly from your **phone browse
 
 ## 🛠️ Installation Guide
 
-1. **Download and install leocontrol.exeon your PC.**
+1. **Download and install leocontrol.exe  on your PC.**
 
 2. **Launch leocontrol.exe.**
 
