@@ -6,7 +6,7 @@ Download and launch **leocontrol.exe** on your PC. Once it’s running, you can 
 
 ## Screenshot
 
-![LEOControl Screenshot](https://i.ibb.co/xts5y0sK/Whats-App-Image-2025-07-17-at-12-54-31-adc732da.jpg)
+![LEOControl Screenshot](images/fivem-control.jpg)
 
 ## How to Access
 
