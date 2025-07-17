@@ -45,7 +45,7 @@ Now you can control your FiveM car buttons remotely while you play!
 
 ## ❓ Need Help?
 
-If you need help finding your local IP address, troubleshooting connection issues, or using AdminStarter effectively, join our [Support Discord](https://yourdiscordlink.com) or contact us anytime.
+If you need help finding your local IP address, troubleshooting connection issues, 
 
 ---
 
