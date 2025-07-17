@@ -1,4 +1,4 @@
-# 🚗 AdminStarter - Remote FiveM Car Control
+# 🚗 leocontrol.exe - Remote FiveM Car Control
 
 Control all your in-game **FiveM car buttons** directly from your **phone browser or any device** on your local network.
 
@@ -15,9 +15,9 @@ Control all your in-game **FiveM car buttons** directly from your **phone browse
 
 ## 🛠️ Installation Guide
 
-1. **Download and install AdminStarter on your PC.**
+1. **Download and install leocontrol.exeon your PC.**
 
-2. **Launch AdminStarter.**
+2. **Launch leocontrol.exe.**
 
 3. On your PC, open a web browser and navigate to:
 
