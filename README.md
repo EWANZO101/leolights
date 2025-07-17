@@ -1,12 +1,12 @@
 # Control Your In-Game FiveM Car Remotely
 
-Download and launch **AdminStarter** on your PC. Once it’s running, you can control all your in-game FiveM car buttons directly from your phone browser or any device on the same network.
+Download and launch **leocontrol.exe** on your PC. Once it’s running, you can control all your in-game FiveM car buttons directly from your phone browser or any device on the same network.
 
 ## How to Access
 
-1. Download and install **AdminStarter** on your PC.
+1. Download and install **leocontrol.exe** on your PC.
 
-2. Launch AdminStarter.
+2. Launch leocontrol.exe
 
 3. On your PC, open a web browser and go to:  
    `http://192.168.1.20:5000`  
