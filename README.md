@@ -1,25 +1,52 @@
-# Control Your In-Game FiveM Car Remotely
+# 🚗 AdminStarter - Remote FiveM Car Control
 
-Download and launch **leocontrol.exe** on your PC. Once it’s running, you can control all your in-game FiveM car buttons directly from your phone browser or any device on the same network.
-
-[![Watch install video](https://img.youtube.com/vi/b0f5e0ILsps/0.jpg)](https://youtu.be/b0f5e0ILsps)
-
-## Screenshot
-
-![LEOControl Screenshot](images/fivem-control.jpg)
-
-## How to Access
-
-1. Download and install **leocontrol.exe** on your PC.
-2. Launch **leocontrol.exe**.
-3. On your PC, open a web browser and go to:  
-   `http://192.168.1.20:5000`  
-   *(Replace `192.168.1.20` with your PC’s actual local IP address.)*
-4. To control your car from your phone or any other device connected to the same network, open a browser on that device and enter the same URL:  
-   `http://yourip:5000`
-
-Now you can easily control your FiveM car buttons remotely from any device without needing to be at your PC!
+Control all your in-game **FiveM car buttons** directly from your **phone browser or any device** on your local network.
 
 ---
 
-If you need help finding your PC’s local IP address or setting up the network, just ask!
+## ⚡ Features
+
+- ✅ Control car actions remotely while in-game
+- ✅ Access from **any device** on your network
+- ✅ Simple setup with a clean interface
+- ✅ No additional ports required
+
+---
+
+## 🛠️ Installation Guide
+
+1. **Download and install AdminStarter on your PC.**
+
+2. **Launch AdminStarter.**
+
+3. On your PC, open a web browser and navigate to:
+
+http://192.168.1.20:5000
+
+
+*(Replace `192.168.1.20` with your actual PC local IP address.)*
+
+4. On your **phone or any other device** connected to the same WiFi/network, open a browser and enter the same URL:
+
+http://192.168.1.20:5000
+
+
+Now you can control your FiveM car buttons remotely while you play!
+
+---
+
+## 📺 Watch Installation Video
+
+[![Watch the installation video](https://img.youtube.com/vi/b0f5e0ILsps/maxresdefault.jpg)](https://youtu.be/b0f5e0ILsps)
+
+▶️ Click the image above to watch the **step-by-step installation guide on YouTube**.
+
+---
+
+## ❓ Need Help?
+
+If you need help finding your local IP address, troubleshooting connection issues, or using AdminStarter effectively, join our [Support Discord](https://yourdiscordlink.com) or contact us anytime.
+
+---
+
+**Happy Driving! 🛞**
