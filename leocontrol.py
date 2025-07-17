@@ -184,7 +184,7 @@ body {{
 </head>
 <body>
 <div class="container">
-    <div id="code2" class="btn code2">CODE 2 (Q)</div>
+    <div id="code2" class="btn code2">CODE 2 (y)</div>
     <div id="code3" class="btn code3">CODE 3 (Left Alt)</div>
     <div id="panic" class="btn panic">PANIC (9)</div>
     <div id="headlights" class="btn headlights">HEADLIGHTS (H)</div>
